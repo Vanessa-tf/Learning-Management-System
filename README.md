@@ -5,8 +5,10 @@ This project is a scalable LMS built to help matric rewrite students. It feature
 
 Tech Stack
 -Languages: PHP, JavaScript, SQL, HTML/CSS
+
 -Database: MySQL
--**Tools:** Developed using Notepad++ and XAMPP
+
+-Tools: Developed using Notepad++ and XAMPP
 
 Key Features
 * Real-time performance dashboards.
